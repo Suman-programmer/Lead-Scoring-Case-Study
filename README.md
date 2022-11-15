@@ -21,7 +21,9 @@ X Education has appointed you to help them select the most promising leads, i.e.
 
 <h1> Repository Contain following files: </h1>
 <li>Leads.csv : Data to be work on.</li>
+<li>Leads Data Dictionary.xlsx : Data Dictionary. </li>
 <li>Lead Scoring Case Study.ipynb : The python file showing coding and data analysis. </li>
+<li>Assignment Subjective Questions.pdf : Some Subjective Questions with Answers. </li>
 <li>Lead Scoring case study.pdf : Final Presentation </li>
 <li>Lead Scoring Case Study Summary.pdf : Summary on what's done in the entire py file </li>
 
