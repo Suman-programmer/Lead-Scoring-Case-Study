@@ -7,7 +7,7 @@ X Education has appointed you to help them select the most promising leads, i.e.
 
 
 <h1> Steps Followed </h1>
-Reading Data
+<li>Reading Data </li>
 Cleaning Data
 EDA
 Creating Dummy
