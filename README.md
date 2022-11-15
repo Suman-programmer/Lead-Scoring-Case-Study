@@ -8,13 +8,20 @@ X Education has appointed you to help them select the most promising leads, i.e.
 
 <h1> Steps Followed </h1>
 <li>Reading Data </li>
-Cleaning Data
-EDA
-Creating Dummy
-Splitting data into train and test set
-Building Model
-Making Predictions
-Model Evaluation
-ROC Curve
-Prediction on test set
-Precision- Recall
+<li>Cleaning Data</li>
+<li>EDA</li>
+<li>Creating Dummy</li>
+<li>Splitting data into train and test set</li>
+<li>Building Model</li>
+<li>Making Predictions</li>
+<li>Model Evaluation</li>
+<li>ROC Curve</li>
+<li>Prediction on test set</li>
+<li>Precision- Recall</li>
+
+<h1> Repository Contain following files: </h1>
+<li>Leads.csv : Data to be work on.</li>
+<li>Lead Scoring Case Study.ipynb : The python file showing coding and data analysis. </li>
+<li>Lead Scoring case study.pdf : Final Presentation </li>
+<li>Lead Scoring Case Study Summary.pdf : Summary on what's done in the entire py file </li>
+
